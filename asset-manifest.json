@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/parallax-scroller/static/css/main.d6248f31.css",
+    "main.js": "/parallax-scroller/static/js/main.cb0d52df.js",
+    "static/media/moon.png": "/parallax-scroller/static/media/moon.976b49e248577b4f68a7.png",
+    "static/media/Layer_0003_6.png": "/parallax-scroller/static/media/Layer_0003_6.b399e1a0316558b00fdc.png",
+    "static/media/Layer_0005_5.png": "/parallax-scroller/static/media/Layer_0005_5.dfee6315ffae1a7abff9.png",
+    "static/media/Layer_0002_7.png": "/parallax-scroller/static/media/Layer_0002_7.7f4fd4bc86e08be8625e.png",
+    "static/media/Layer_0006_4.png": "/parallax-scroller/static/media/Layer_0006_4.9a52a798fa9e0dcdb542.png",
+    "static/media/Layer_0001_8.png": "/parallax-scroller/static/media/Layer_0001_8.4704ec1442083fc663c7.png",
+    "index.html": "/parallax-scroller/index.html",
+    "main.d6248f31.css.map": "/parallax-scroller/static/css/main.d6248f31.css.map",
+    "main.cb0d52df.js.map": "/parallax-scroller/static/js/main.cb0d52df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6248f31.css",
+    "static/js/main.cb0d52df.js"
+  ]
+}
