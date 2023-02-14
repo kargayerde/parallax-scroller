@@ -78,7 +78,7 @@ function App() {
 		const delta = now - lastFrame;
 		lastFrame = now;
 		frameTimes.push(delta);
-		displayFPS(canvas);
+		// displayFPS(canvas);
 		if (frameTimes.length > 144) frameTimes.shift();
 		frame--;
 
